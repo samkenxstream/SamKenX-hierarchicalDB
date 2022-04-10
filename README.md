@@ -1,6 +1,6 @@
 **Samkencoincore {LevelDB} is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.**
 
-[![ci](https://github.com/google/leveldb/actions/workflows/build.yml/badge.svg)](https://github.com/google/leveldb/actions/workflows/build.yml)
+[![ci](https://github.com/samkenxstream/samkencoincore/actions/workflows/build.yml/badge.svg)](https://github.com/samkenxstream/samkencoincore/actions/workflows/build.yml)
 
 Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
 
@@ -18,13 +18,7 @@ Authors: Sanjay Ghemawat (sanjay@google.com) and Jeff Dean (jeff@google.com)
 
 # Documentation
 
-  [LevelDB library documentation](https://github.com/google/leveldb/blob/main/doc/index.md) is online and bundled with the source code.
-
-# Limitations
-
-  * This is not a SQL database.  It does not have a relational data model, it does not support SQL queries, and it has no support for indexes.
-  * Only a single process (possibly multi-threaded) can access a particular database at a time.
-  * There is no client-server support builtin to the library.  An application that needs such support will have to wrap their own server around the library.
+  [Samkencoincore library documentation](https://github.com/samkenxstream/samkencoincore/blob/main/doc/index.md) is online and bundled with the source code.
 
 # Getting the Source
 
